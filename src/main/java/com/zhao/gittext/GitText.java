@@ -11,5 +11,6 @@ public class GitText {
         System.out.println("sss");
         System.out.println("hello git host-fix");
         System.out.println("hello git master");
+        System.out.println("hello git host-fix 2");
     }
 }
