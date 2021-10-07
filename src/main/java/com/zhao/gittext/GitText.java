@@ -10,5 +10,6 @@ public class GitText {
         System.out.println("Hello git !");
         System.out.println("sss");
         System.out.println("hello git host-fix");
+        System.out.println("hello git master");
     }
 }
